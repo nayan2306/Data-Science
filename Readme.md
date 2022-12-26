@@ -7,6 +7,4 @@
 4. EDA Football
 
 
-## Speical Thanks to Free Code Camp and Data Professor for Guidance and Support.
-
 
